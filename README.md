@@ -11,7 +11,7 @@ This tool can expand original XYZ format unit cell files by specified multiples 
 
 ### Graphical Interface Mode (Recommended)
 
-1. Double-click to run `test.exe`
+1. Double-click to run `tran_supercell.exe`
 2. Set the following parameters in the interface:
    - **Input File**: Select the original .xyz file
    - **Output File**: Set the save location for the generated supercell file
